@@ -34,9 +34,12 @@ with open('server.json', encoding="utf8", newline='') as json_f:
     for d in data['server']:
         print(f'Testing server: {d["_name"]} in country: {d["_country"]}')
         server_to_test = [int(d['_id'])]
-        down ,up ,ping = speed_test_multi(server_to_test)
+        try:
+            down ,up ,ping = speed_test_multi(server_to_test)
+        except:
+           print("error") 
 
-        result_str = f'{d["_id"]}-{d["_country"]}-{d["_name"]}-{d["_sponsor"]}-{round(down/1000000, 2)} Mbps-{round(up/1000000,2)} Mbps-{round(ping,2)} ms'
+        result_str = f'{d["_id"]}#{d["_country"]}#{d["_name"]}#{d["_sponsor"]}#{round(down/1000000, 2)} Mbps#{round(up/1000000,2)} Mbps#{round(ping,2)} ms'
 
         file = open(os.path.abspath(os.path.join(os.path.dirname(sys.argv[0]), 'result.csv')), 'a', newline='')
         with file:

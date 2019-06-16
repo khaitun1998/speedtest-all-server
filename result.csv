@@ -1,0 +1,91 @@
+id,country,name,sponsor,download(mbps),upload(mbps),ping(ms)
+21239,Norway,Hammerfest,Hammerfest Energi Bredbånd AS,43.3 Mbps,11.36 Mbps,332.48 ms
+4600,Norway,Vadso,Varanger KraftUtvikling AS,43.71 Mbps,10.23 Mbps,331.42 ms
+4961,Norway,Alta,Nornett AS,7.17 Mbps,11.77 Mbps,329.11 ms
+3433,Norway,Alta,Eltele AS,6.29 Mbps,10.81 Mbps,336.91 ms
+11786,Norway,Tromsø,Broadnet,19.68 Mbps,11.57 Mbps,380.33 ms
+3522,Russian Federation,Murmansk,Rostelecom,15.76 Mbps,15.66 Mbps,268.42 ms
+11072,Russian Federation,Murmansk,Net By Net Holding LLC,50.47 Mbps,12.43 Mbps,318.85 ms
+1521,Russian Federation,Murmansk,M2C,10.56 Mbps,6.01 Mbps,371.88 ms
+4755,Norway,Stokmarknes,Trollfjord Broadband AS,32.75 Mbps,11.35 Mbps,346.6 ms
+4280,Russian Federation,Naryan,Mar,Rostelecom,29.33 Mbps,13.19 Mbps,317.48 ms
+4980,Russian Federation,Apatity,Citylink Ltd,8.06 Mbps,12.74 Mbps,292.19 ms
+25069,Russia,Apatity,Tigernet,50.81 Mbps,6.09 Mbps,364.67 ms
+3308,Norway,Bodø,Signal Broadband AS,5.43 Mbps,12.17 Mbps,377.56 ms
+14444,Norway,Bodø,Altibox AS,6.03 Mbps,11.87 Mbps,326.96 ms
+2601,Russian Federation,Salekhard,Rostelecom,11.49 Mbps,22.79 Mbps,231.01 ms
+15323,Russian Federation,Salekhard,Yamaltelecom,28.49 Mbps,8.99 Mbps,488.65 ms
+17819,RU,Salekhard,"JSC ""CONNECT""",65.26 Mbps,16.83 Mbps,311.62 ms
+3484,Russian Federation,Novy Urengoy,Rostelecom,15.59 Mbps,23.67 Mbps,212.73 ms
+17031,Russia,Novy Urengoy,MegaFon,5.68 Mbps,11.85 Mbps,332.45 ms
+6256,Russian Federation,Novy Urengoy,JSC Sigma,KTV,11.07 Mbps,18.19 Mbps,228.54 ms
+11074,Russian Federation,Novy Urengoy,Net By Net Holding LLC,7.6 Mbps,3.98 Mbps,397.1 ms
+3693,Russian Federation,Usinsk,Swift Telecom,13.34 Mbps,13.13 Mbps,291.28 ms
+10661,Iceland,Akureyri,Tengir hf,42.92 Mbps,14.46 Mbps,318.49 ms
+4856,Russian Federation,Nadym,VKS,Internet,7.7 Mbps,18.27 Mbps,280.87 ms
+2138,Finland,Oulu,Netplaza Oy,9.74 Mbps,11.97 Mbps,372.76 ms
+3191,United States,"Fairbanks, AK",University of Alaska,17.15 Mbps,9.37 Mbps,413.73 ms
+2597,Russian Federation,Arkhangelsk,Rostelecom,5.65 Mbps,14.58 Mbps,274.65 ms
+7160,Russian Federation,Arkhangelsk,Beeline (Vimpelcom) Arkhangelsk,28.09 Mbps,12.26 Mbps,410.51 ms
+4565,Finland,Kajaani,Kaisanet Oy,3.89 Mbps,4.75 Mbps,451.26 ms
+1066,Greenland,Nuuk,Tele Greenland A/S,12.19 Mbps,9.11 Mbps,454.85 ms
+6471,Iceland,Reykjavik,Gagnaveita Reykjavikur,9.2 Mbps,15.51 Mbps,267.69 ms
+4141,Iceland,Reykjavík,Vodafone,9.6 Mbps,15.37 Mbps,311.14 ms
+16148,Iceland,Reykjavik,Hringidan,14.7 Mbps,11.69 Mbps,386.45 ms
+10588,Iceland,Reykjavik,AndraNET,8.57 Mbps,13.19 Mbps,312.61 ms
+10650,Iceland,Reykjavik,Nova VIP,7.11 Mbps,15.43 Mbps,270.93 ms
+17455,IS,Reykjavík,Hringdu,6.13 Mbps,14.06 Mbps,289.18 ms
+4818,Iceland,Reykjavik,Siminn,46.43 Mbps,15.17 Mbps,313.42 ms
+3684,Iceland,Reykjavik,Nova,40.63 Mbps,11.89 Mbps,354.35 ms
+21605,Iceland,Reykjavík,Premis ehf,8.75 Mbps,12.97 Mbps,489.92 ms
+13679,United States,"Delta Junction, AK",Whitestone Power & Communications,16.82 Mbps,9.88 Mbps,365.68 ms
+10094,United States,"Delta Junction, AK",Vertical Broadband LLC,20.38 Mbps,9.9 Mbps,390.06 ms
+19080,Norway,Steinkjer,NTE Marked A/S,38.54 Mbps,12.94 Mbps,350.45 ms
+20602,Sweden,Umea,A3 Allmänna IT , och Telekomaktiebolaget,7.69 Mbps,12.19 Mbps,320.03 ms
+23637,Finland,Larsmo,Omerta.io,54.39 Mbps,13.79 Mbps,300.59 ms
+8657,Russian Federation,Segezha,CityLink Ltd,15.37 Mbps,13.23 Mbps,323.8 ms
+6875,Finland,Jakobstad,JNT,28.76 Mbps,13.42 Mbps,335.7 ms
+11898,Finland,Bennäs,Storbackas,59.74 Mbps,12.73 Mbps,324.96 ms
+1252,Norway,Trondheim,ITsjefen AS,5.7 Mbps,12.68 Mbps,345.39 ms
+25057,Norway,Trondheim,UNINETT,22.34 Mbps,10.36 Mbps,463.94 ms
+18865,Norway,Kristiansund,NEAS,48.93 Mbps,12.27 Mbps,325.94 ms
+4281,Russian Federation,Noyabrsk,Rostelecom,10.84 Mbps,24.92 Mbps,215.95 ms
+17032,Russia,Noyabrsk,MegaFon,5.44 Mbps,6.39 Mbps,386.58 ms
+2017,Russian Federation,Noyabrsk,Sever,Svyaz,10.68 Mbps,7.53 Mbps,450.55 ms
+8658,Russian Federation,Medvezhyegorsk,CityLink Ltd,41.03 Mbps,13.62 Mbps,334.58 ms
+4197,Norway,Sunndalsora,SuCom AS,56.71 Mbps,12.22 Mbps,315.56 ms
+24089,Norway,Oppdal,Vitnett,0.0 Mbps,0.0 Mbps,1800000.0 ms
+22962,Russia,Mirny,Svyaz Energo LLC,14.56 Mbps,27.72 Mbps,157.44 ms
+8070,Norway,Alesund,Tafjord Marked AS,32.13 Mbps,12.14 Mbps,361.05 ms
+4039,Norway,Alesund,StayOn,22.76 Mbps,14.63 Mbps,282.46 ms
+21311,Norway,Alesund,Aalesund Fiber,39.4 Mbps,11.44 Mbps,338.99 ms
+13387,Canada,"Yellowknife, NT",Northwestel,11.88 Mbps,16.54 Mbps,331.61 ms
+1843,Canada,"Yellowknife, NT",SSI Micro,9.12 Mbps,8.33 Mbps,324.12 ms
+14760,Norway,Sykkylven,PC Support AS,8.82 Mbps,12.48 Mbps,374.29 ms
+9681,Finland,Jyvaskyla,Keski,Suomen Valokuituverkot Oy,43.09 Mbps,13.1 Mbps,309.8 ms
+3038,Finland,Jyvaskyla,Seltimil Oy,15.78 Mbps,4.89 Mbps,292.46 ms
+23317,Finland,Jyväskylä,TNNet Oy,11.45 Mbps,9.69 Mbps,429.22 ms
+10585,Norway,Orsta,Tussa IKT AS,11.19 Mbps,11.66 Mbps,325.75 ms
+6374,Russian Federation,Nyagan,N,telecom,6.61 Mbps,8.19 Mbps,324.64 ms
+1809,Russian Federation,Nyagan,OJSC.MTS,70.44 Mbps,16.07 Mbps,324.16 ms
+4480,Russia,Yakutsk,Rostelecom,26.17 Mbps,14.68 Mbps,156.99 ms
+5647,Russian Federation,Yakutsk,MegaFon,6.04 Mbps,5.56 Mbps,429.45 ms
+12676,Russian Federation,Yakutsk,K,Service,70.81 Mbps,32.59 Mbps,185.56 ms
+21607,Russia,Yakutsk,Bridge,"Telecom, Ltd",9.87 Mbps,5.37 Mbps,451.12 ms
+462,Faroe Islands,Torshavn,Faroese Telecom,9.33 Mbps,11.81 Mbps,387.28 ms
+22203,Faroe Islands,Tórshavn,Hey,19.39 Mbps,13.99 Mbps,344.06 ms
+1712,Russian Federation,Petrozavodsk,CityLink Ltd,8.11 Mbps,14.5 Mbps,328.23 ms
+2621,Russian Federation,Petrozavodsk,Rostelecom,6.12 Mbps,15.69 Mbps,304.15 ms
+5966,Russian Federation,Petrozavodsk,Svyazservice LTD,57.73 Mbps,13.04 Mbps,336.56 ms
+8656,Russian Federation,Sortavala,CityLink Ltd,9.69 Mbps,10.33 Mbps,297.29 ms
+10343,Finland,Mikkeli,MPY Palvelut Oyj,6.76 Mbps,13.37 Mbps,327.91 ms
+15435,Russian Federation,Syktyvkar,Rostelecom,19.58 Mbps,14.5 Mbps,298.63 ms
+10552,Russian Federation,Syktyvkar,I,Way,8.36 Mbps,11.78 Mbps,441.94 ms
+3173,Russian Federation,Syktyvkar,"CJSC ""SeverTransTeleCom""",25.01 Mbps,12.42 Mbps,364.22 ms
+5055,Finland,Tampere,Elmo,5.92 Mbps,7.83 Mbps,362.95 ms
+899,Norway,Forde,Enivest AS,5.78 Mbps,12.34 Mbps,373.87 ms
+2313,Russian Federation,Surgut,METROSET,5.53 Mbps,10.43 Mbps,364.6 ms
+23428,Russia,Surgut,Rostelecom,27.03 Mbps,26.32 Mbps,206.83 ms
+7964,Russian Federation,Kotlas,OOO Internet29,4.73 Mbps,9.83 Mbps,377.24 ms
+16182,Norway,Sogndal,Sognenett AS,14.18 Mbps,10.36 Mbps,380.19 ms
+980,United States,"Anchorage, AK",Alaska Communications,47.6 Mbps,10.63 Mbps,392.37 ms
