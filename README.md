@@ -1,16 +1,12 @@
-# Speedtest on all server
+# Speedtest.net on all server
 
-An python script to run speedtest on all available servers, AUTOMATICALLY!!!
+An python script to run Speedtest.net on all available servers, AUTOMATICALLY!!!
 
 ## Requirements
 
 - Python 3.6 or higher
 - [speedtest-cli](https://github.com/sivel/speedtest-cli)
 - csv
-
-Link to get list of server from Ookla: [Server List](http://c.speedtest.net/speedtest-servers-static.php).
-
-Parse into JSON Format: [Link](https://codebeautify.org/xmltojson). After parse XML to JSON, rename it as <b>server.json</b>.
 
 ## Run
 ```sh
@@ -30,4 +26,8 @@ into
 down ,up ,ping = speed_test_single(server_to_test)
 ```
 
-The result will be recorded in <b>result.csv</b> file. Enjoy!!
+The result will be recorded in <b>result.csv</b> file. 
+
+If you want to update list of available servers, please go to [http://c.speedtest.net/speedtest-servers-static.php](http://c.speedtest.net/speedtest-servers-static.php). After that, you must parse XML into JSON Format, using this free tool: [Link](https://codebeautify.org/xmltojson). After parsing XML into JSON, rename it as <b>server.json</b>.
+
+Enjoy!!
