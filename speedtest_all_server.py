@@ -39,9 +39,9 @@ with open('server.json', encoding="utf8", newline='') as json_f:
         except:
            print("error") 
 
-        result_str = f'{d["_id"]}#{d["_country"]}#{d["_name"]}#{d["_sponsor"]}#{round(down/1000000, 2)} Mbps#{round(up/1000000,2)} Mbps#{round(ping,2)} ms'
+        result_str = f'{d["_id"]}_{d["_country"]}_{d["_name"]}_{d["_sponsor"]}_{round(down/1000000, 2)} Mbps_{round(up/1000000,2)} Mbps_{round(ping,2)} ms'
 
         file = open(os.path.abspath(os.path.join(os.path.dirname(sys.argv[0]), 'result.csv')), 'a', newline='')
         with file:
             writer = csv.writer(file)
-            writer.writerow(result_str.split("-"))
+            writer.writerow(result_str.split("_"))
