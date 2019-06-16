@@ -14,6 +14,7 @@ Parse into JSON Format: [Link](https://codebeautify.org/xmltojson). After parse 
 
 ## Run
 ```sh
+cd speedtest-all-server/
 python3 speedtest_all_server.py
 ```
 
