@@ -25,7 +25,7 @@ Option:
     - multi
     - single
 - test_list:
-    - full: Testing with a full list from Ookla
+    - full: Testing with a full list from Ookla, over 8000 servers :)
     - minimize: Testing with a minimize list, about 300 servers from each country
 
 
