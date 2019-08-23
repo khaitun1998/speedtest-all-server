@@ -8,19 +8,27 @@ An python script to run speedtest on all available servers, AUTOMATICALLY!!!
 - [speedtest-cli](https://github.com/sivel/speedtest-cli)
 - csv
 
+## Installation
+
+- Install python 3
+- Install speedtest-cli
+```sh
+pip3 install speedtest-cli
+```
+
 ## Run
 ```sh
 cd speedtest-all-server/
 python3 speedtest_all_server.py
 ```
 
-By default, this script will run speedtest with <b>Multi mode</b> with minimal server list. If you want to test with <b>Single mode</b> or with full server list:
+By default, this script will run speedtest with <b>Multi mode</b> with <b>minimize version of the server list</b>. If you want to test with <b>Single mode</b> or with full version of the server list:
 
 ```sh
 python3 speedtest_all_server.py -t [test_type] -l [test_list]
 ```
 
-Option:
+Options:
 - test_type:
     - multi
     - single
