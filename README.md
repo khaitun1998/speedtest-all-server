@@ -1,6 +1,6 @@
 # Speedtest.net on all server
 
-An python script to run Speedtest.net on all available servers, AUTOMATICALLY!!!
+An python script to run speedtest on all available servers, AUTOMATICALLY!!!
 
 ## Requirements
 
@@ -14,17 +14,21 @@ cd speedtest-all-server/
 python3 speedtest_all_server.py
 ```
 
-By default, this script will run speedtest with <b>Multi mode</b>. If you want to test with <b>Single mode</b>, please change:
+By default, this script will run speedtest with <b>Multi mode</b> with minimal server list. If you want to test with <b>Single mode</b> or with full server list:
 
 ```sh
-down ,up ,ping = speed_test_multi(server_to_test)
+python3 speedtest_all_server.py -t [test_type] -l [test_list]
 ```
 
-into
+Option:
+- test_type:
+    - multi
+    - single
+- test_list:
+    - full: Testing with a full list from Ookla
+    - minimize: Testing with a minimize list, about 300 servers from each country
 
-```sh
-down ,up ,ping = speed_test_single(server_to_test)
-```
+
 
 The result will be recorded in <b>result.csv</b> file. 
 
