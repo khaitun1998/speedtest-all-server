@@ -5,16 +5,13 @@ An python script to run speedtest on all available servers, AUTOMATICALLY!!!
 ## Requirements
 
 - Python 3.6 or higher
-- [speedtest-cli](https://github.com/sivel/speedtest-cli)
 - csv
+- json
 
 ## Installation
 
 - Install python 3
-- Install speedtest-cli
-```sh
-pip3 install speedtest-cli
-```
+
 
 ## Run
 ```sh
@@ -25,13 +22,11 @@ python3 speedtest_all_server.py
 By default, this script will run speedtest with <b>Multi mode</b> with <b>minimize version of the server list</b>. If you want to test with <b>Single mode</b> or with full version of the server list:
 
 ```sh
-python3 speedtest_all_server.py -t [test_type] -l [test_list]
+python3 speedtest_all_server.py -l [test_list]
 ```
 
 Options:
-- test_type:
-    - multi
-    - single
+
 - test_list:
     - full: Testing with a full list from Ookla, over 8000 servers :)
     - minimize: Testing with a minimize list, about 300 servers from each country
